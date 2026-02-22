@@ -8,19 +8,6 @@ let name = "Mohib";
 console.log(name);
 
 
-// var me same name ka variable ham bana sakte hai 
-var name1 = "Mohib";
-var name1 = "Mohib Ali";
-console.log(name1);
-
-
-//let me same name ka variable nahi bana sakte hai
-// lekin same name ka variable ko overwrite kar sakte hai
-let name2 = "Mohib Ali";
-name2 = "Mohib";
-console.log(name2);
-
-
 // Scope ka matlab hota hai:
 // Variable kahan tak accessible (use) ho sakta hai.
 // var  global /function scope hota hai matlab function ke andar declare kiya gaya variable usi function ke andar accessible hota hai
