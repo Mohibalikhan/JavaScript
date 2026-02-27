@@ -89,11 +89,7 @@ Reverses the array order.
 
 Sorts the array elements (⚠ by default sorts as strings).
 
-🔟 concat(jise karna ha wo array ka name)
-
-They combine two array in a single array
-
-1️⃣1️⃣ copyWithin() 
+🔟 copyWithin() 
 
 array ke andar hi elements copy karta hai
 aur original array ko modify (change) karta hai.
