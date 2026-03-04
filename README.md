@@ -132,3 +132,30 @@ aur original array ko modify (change) karta hai.
 
 - 📊 Data analysis me mostly arrays use hoti hain
 - 🌐 Web apps me structured data ke liye objects use hote hain        
+
+
+
+
+# **Array Exercise Practice Question**
+1. Create an array of 5 different fruit names and log it to the console
+2. Square of Each Element of an array
+3. Access the last element of an array using the `length` property.
+4. Loop through an array using a `for` loop and display each element.
+5. Loop through an array using `forEach()` and print values.
+6. Add a new element to the end of an array using `push()`.
+7. Remove the first element from an array using `shift()`.
+8. Get the nth element of an array (e.g., the 3rd element).
+9. Count the number of elements in an array and print the result.
+10. Sort an array of strings in alphabetical order.
+11. Sort an array of numbers in descending order.
+12. Calculate the sum of all numbers in a numeric array.
+13. Return the average of numbers in an array.
+14. Check if an array contains a specific value and return true/false.
+15. Merge two arrays into one larger array.
+16. Count negative numbers in a numeric array and also remove negative number in an array
+17. Remove duplicates from an array and return the new array.
+18. Find the largest number in an array of numbers.
+19. Filter Numbers Greater Than X
+20. Create a 2D array (array of arrays) and access a nested element.
+21. Count how many even and odd numbers are there in an array
+22. Multiply Each Element by 2
