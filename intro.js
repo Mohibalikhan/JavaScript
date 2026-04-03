@@ -34,13 +34,20 @@ fullname = firstname + " " + lastname
 console.log(fullname);
 
 
-// Javascript opearators
-a = 10
-b= 5
-c= a+b
-console.log(c); 
-d = a-b
-console.log(d); 
-e = a*b 
-console.log(e);
+// // Javascript opearators
+// a = 10
+// b= 5
+// c= a+b
+// console.log(c); 
+// d = a-b
+// console.log(d); 
+// e = a*b 
+// console.log(e);
 
+
+let a = 15; 
+let b = 10;
+
+if (a>b)
+  console.log(a);
+  console.log("b is less than a");
