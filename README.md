@@ -1,8 +1,17 @@
 ## JavaScript
+### Intro 
+- Sab software me syntax samajne ka way hota ha 
+- Java Script ke case me salo tak ye software browser me chupa tha 
+- log phele index.html ki file banate tha or script add karte tha phir js ki file execute karte tha
+- to wo software salo tak hame browser me mila or easy accessible bhi nhi tha
+- now today wo software nikal kar stand alone kardia 
+- ab ham js ko file normal file ki taran use karsakte han
+- **Node.js or Deno** basically environment ha js ko chalane kelia
+- Code likh kar run karte han to wo analyze hota ha wo kam **node js** karta han 
 ### let
 - let keyword is used to declare a variable in javascript
 - new ecma script 6 (ES6) version of javascript
-- let me same name ka variable ham nhi banasakte
+- **let me same name ka variable ham nhi banasakte**
 - same variable ko value reassign karsakte han
 
                     let name2 = "Mohib Ali";
@@ -16,10 +25,32 @@
                     var name1 = "Mohib Ali";
                     console.log(name1);
 
-### Scope
+- var me same name ka variable ko ham reassign bhi kar sakte han
+
+                    var name1 = "Mohib";
+                    name1 = "Ali";
+                    console.log(name1);
+
+### Scope { } isko kaha jata ha
 - Scope ka matlab hota hai: Variable kahan tak accessible (use) ho sakta hai.
 - var  **global /function** scope hota hai matlab function ke andar declare kiya gaya variable usi function ke andar accessible hota hai
 - let **block scope** hota hai
+
+### Data types
+- **"use strict"** is word ka matlab ha ke ab javascript code ko newer version me treat karege
+- code me readability boht important hoti ha
+- ecma script js ka standard ha ke kese likhna ha js ko
+
+1. number 
+2. bigint
+3. string
+4. boolean
+5. null is a standalone value object
+6. undefined value nhi di
+7. symbol unique hota ha
+8. object
+
+
 
 ### Object 
 - We declare an object in two ways in js 
