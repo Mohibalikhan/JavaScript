@@ -50,7 +50,14 @@
 7. symbol unique hota ha
 8. object
 
+### Data type Conversion
+"33" => 33 
+"33a" => iski type number hogi but print me NaN ayega
+true => 1 and false =>0
 
+### Data type Comparision 
+js me data type conversion hojati ha but note js also allow two different data type comparison while ts is not allowed this
+- Null is greator than or equal to zero
 
 ### Object 
 - We declare an object in two ways in js 

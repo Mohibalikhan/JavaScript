@@ -2,7 +2,7 @@
 console.log("Its my first program in javascript");
 console.log("Its a 1st Ramzan today 19-02-2026");
 
-// let keyword is used to declare a variable in javascript
+
 // new ecma script 6 (ES6) version of javascript
 let name = "Mohib";
 console.log(name);
@@ -27,11 +27,30 @@ test();
 */
 
 
+
 // String concatenation
 firstname = "Mohib Ali"
 lastname = "Khan"
 fullname = firstname + " " + lastname
-console.log(fullname);
+// console.log(fullname);
+
+
+
+
+//  Data type conversion 
+let age = "33a"
+// console.log(typeof(age))
+// console.log(age);
+
+// // ab mujhe age wale string ko number me convert karna ha 
+let valueInNumber = Number(age)
+// console.log(typeof(valueInNumber))
+// console.log(valueInNumber);
+
+// but important bat ye ha ke agar ham uper wale age ke string ko change kare "33a"
+// to type number ayege but console me NaN ayega 
+
+
 
 
 // // Javascript opearators
@@ -45,9 +64,30 @@ console.log(fullname);
 // console.log(e);
 
 
-let a = 15; 
-let b = 10;
+// Tricks of mcqs 
+// agar no phele ayega to phele plus hoga
+// console.log(1+2);
+// console.log("2"+2);
+// console.log(2+"2");
+// console.log(2+2+"2");
+// console.log("2"+2+2);
+// console.log(true);
+// console.log(+true);
+// console.log(+"");
 
-if (a>b)
-  console.log(a);
-  console.log("b is less than a");
+// Tricky question
+let counter = 100
+counter++
+console.log(counter);
+
+
+
+// Comparison operators
+console.log("2">1);
+console.log("02">1);
+
+
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);
+
