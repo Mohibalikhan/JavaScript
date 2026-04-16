@@ -51,13 +51,38 @@
 8. object
 
 ### Data type Conversion
-"33" => 33 
-"33a" => iski type number hogi but print me NaN ayega
-true => 1 and false =>0
+- "33" => 33 
+- "33a" => iski type number hogi but print me NaN ayega
+- true => 1 and false =>0
 
 ### Data type Comparision 
 js me data type conversion hojati ha but note js also allow two different data type comparison while ts is not allowed this
 - Null is greator than or equal to zero
+
+### Data ko memory me store karne kelia or excess karne kelia 2 types han
+**1. Primitive call** by value me apko copy karke dia jata ha original memory refrence nhi dete or jo bhi changes ap karte ho wo copy me hote han 
+## 7 Primitive Data types
+- String 
+- Number
+- Boolean
+- null
+- undefined
+- Symbol (unique karne kelia value ko) dekhne me neche wale value same ha but asa nhi ha due to symbol
+
+                    const id = Symbol('123')
+                    const anotherid = Symbol('123')
+
+- BigInt
+
+**2. Non Primitive / Refrence type** (original refrence dia jata ha)
+- Array
+- Objects
+- Functions
+
+### Stack(primitive me apko copy milta ha) and Heap memory (Non premitive yahan orignal refrence milta ha)
+![alt text](image-1.png)
+
+# lec 01 - 11 Complete 
 
 ### Object 
 - We declare an object in two ways in js 

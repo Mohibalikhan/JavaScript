@@ -91,3 +91,10 @@ console.log(null>0);
 console.log(null==0);
 console.log(null>=0);
 
+
+const id = Symbol("id")
+console.log(id);
+const id2 = Symbol("id")
+console.log(id2);
+
+console.log(id==id2);
