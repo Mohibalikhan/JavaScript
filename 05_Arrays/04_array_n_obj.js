@@ -1,7 +1,7 @@
 
 let studprofile = [
 
-    {name:"Mohib", age: 22},
+    {name:"Mohib", age:22},
     {name:"Arshad",age:30},
     {name:"Ahmed", age:22}
 

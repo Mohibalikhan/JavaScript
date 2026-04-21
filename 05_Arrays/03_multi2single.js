@@ -34,3 +34,11 @@ console.log(newArr);
 // Agar positive ho → b pehle ayega
 // Is tarah numbers ascending order me sort ho jate hain
 
+
+// Multi values ko single array me convert karne ke liye Array.of() method ka use kar sakte hain.
+let a = 100
+let b = 50
+let c = 450
+
+console.log(Array.of(a,b,c) );
+
