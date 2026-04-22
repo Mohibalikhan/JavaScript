@@ -4,17 +4,17 @@
 // 456 → string
 // "true" → boolean
 
-let noinstring = "123"
-console.log(noinstring, typeof noinstring);
-console.log(Number(noinstring), typeof Number(noinstring));
+let no_in_string = "123"
+console.log(no_in_string, typeof no_in_string);
+console.log(Number(no_in_string), typeof Number(no_in_string));
 
 
-let num = 456
-console.log(num, typeof num);
-console.log(String(num), typeof String(num));
+let no_in_number = 456
+console.log(no_in_number, typeof no_in_number);
+console.log(String(no_in_number), typeof String(no_in_number));
 
 
 
-let boolinstring = "true"
-console.log(boolinstring, typeof boolinstring);
-console.log(Boolean(boolinstring), typeof Boolean(boolinstring)); 
+let bool_in_string = "true"
+console.log(bool_in_string, typeof bool_in_string);
+console.log(Boolean(bool_in_string), typeof Boolean(bool_in_string)); 
