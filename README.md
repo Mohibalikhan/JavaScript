@@ -33,8 +33,8 @@
 
 ### Scope { } isko kaha jata ha
 - Scope ka matlab hota hai: Variable kahan tak accessible (use) ho sakta hai.
-- var  **global /function** scope hota hai matlab function ke andar declare kiya gaya variable usi function ke andar accessible hota hai
-- let **block scope** hota hai
+- var **global /function** var variables are function-scoped, so they are accessible outside the blockscope
+- let **block scope** hota hai they are not accessible outside the block
 
 ### Data types
 - **"use strict"** is word ka matlab ha ke ab javascript code ko newer version me treat karege
