@@ -82,7 +82,7 @@ js me data type conversion hojati ha but note js also allow two different data t
 ### Stack(primitive me apko copy milta ha) and Heap memory (Non premitive yahan orignal refrence milta ha)
 ![alt text](image-1.png)
 
-# lec 01 - 11 Complete 
+# lec 01 - 15 Complete 
 
 ### Object 
 - We declare an object in two ways in js 

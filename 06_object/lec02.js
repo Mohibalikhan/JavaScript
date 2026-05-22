@@ -56,7 +56,7 @@ console.log(tinderuser);
 console.log(Object.keys(tinderuser)); // this will return an array of keys of the object
 console.log(Object.values(tinderuser)); // this will return an array of values of the object
 console.log(Object.entries(tinderuser)); // this will return an array of key-value pairs of the object in the form of an array of arrays
-console.log(tinderuser.hasOwnProperty("isLoggedIn")); // this will return a boolean value indicating whether the object has the specified property or not
+console.log(tinderuser.hasOwnProperty("isLoggedIn"));// this will return a boolean value indicating whether the object has the specified property or not
 console.log(tinderuser.hasOwnProperty("isLogged")); // this will return a boolean value indicating whether the object has the specified property or not
 
 

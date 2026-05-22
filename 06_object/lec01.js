@@ -16,6 +16,8 @@ const person = {
 }
 
 // console.log(person.name);//we access the value of the key name by using dot notation
+console.log(person["name"]);// we also access the value of the key name by using square bracket notation
+
 
 // console.log(person["full name"]); // we use the square notation when we have space in the key name or special character in the key name
 // console.log(person.age);
