@@ -363,63 +363,8 @@ Concepts Tested:
 •	Math
 •	Functions
 ________________________________________
-Task 9 — Map Based User Directory
-Create a Map to store users:
-ID → User Name
-Tasks:
-1.	Add users
-2.	Find user by ID
-3.	Delete user
-4.	Print all users
-Concepts Tested:
-•	Maps
-•	Iterations
-________________________________________
-Task 10 — Mini Student Management System (Final Task)
-Create a system that can:
-1.	Add student
-2.	Delete student
-3.	
-4.	Search student
-5.	Display all students
-Each student should contain:
-name
-age
-course
-marks
-Bonus:
-•	Sort students by marks
-Concepts Tested:
-•	Arrays
-•	Objects
-•	Functions
-•	Loops
-•	Conditions
-•	Destructuring
-________________________________________
-Optional Challenge (Advanced Students)
-Build a Number Guessing Game
-Rules:
-•	Random number between 1–100
-•	User keeps guessing
-•	Show hints:
-Too High
-Too Low
-Correct
-Concepts Tested:
-•	Math.random()
-•	Loops
-•	Conditions
-________________________________________
-✅ Evaluation Criteria
-Skill	Marks
-Logic	30
-Code Structure	20
-Use of Functions	20
-Use of ES6 Features	20
-Clean Code	10
-________________________________________
- 
+
+
 JavaScript Mini Project Assessment
 Student Management System (Console Based)
 Objective
