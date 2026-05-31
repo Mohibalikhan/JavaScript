@@ -17,7 +17,7 @@ const user = {
 // user.name = 'Rehman';// this will change the name property of the user object to Rehman
 // user.welcome();
 
-// console.log(this);// this will print the global object in the browser and in node it will print an empty object
+// console.log(this);// this will print the Global Object (window) in the browser and in node it will print an empty object
 
 
 //Now we will learn about the arrow function and this in js
